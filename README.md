@@ -1,6 +1,6 @@
 # Module-19_Challenge: Sending payments on the blockchain using Ganache
 
-![https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/eth%20blockchain%20image.jpeg](https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/eth%20blockchain%20image.jpeg)
+![https://github.com/DigitalGoldRush/Module-19_Challenge/blob/main/Images/ganache.jpeg](https://github.com/DigitalGoldRush/Module-19_Challenge/blob/main/Images/ganache.jpeg)
 
 ## 1. Overview of the Project
 
