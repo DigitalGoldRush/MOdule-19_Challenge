@@ -25,11 +25,15 @@
 
 ################################################################################
 # Imports
+
 import streamlit as st
 from dataclasses import dataclass
 from typing import Any, List
 from web3 import Web3
+import os
 w3 = Web3(Web3.HTTPProvider('HTTP://127.0.0.1:7545'))
+
+
 ################################################################################
 # Step 1:
 # Import Ethereum Transaction Functions into the Fintech Finder Application
@@ -45,7 +49,7 @@ w3 = Web3(Web3.HTTPProvider('HTTP://127.0.0.1:7545'))
 
 # 1. Review the code contained in the `crypto_wallet.py` script file. Note that
 # the Ethereum transaction functions that you have built throughout this
-# module-including `wallet`, `wallet.derive_acount`, `get_balance`, `fromWei`,
+# module-including `wallet`, `wallet.derive_account`, `get_balance`, `fromWei`,
 # `estimateGas`, `sendRawTransaction`, and others&mdash;have now been
 # incorporated into Python functions that allow you to automate the process of
 # accessing them.
@@ -79,7 +83,15 @@ w3 = Web3(Web3.HTTPProvider('HTTP://127.0.0.1:7545'))
 # @TODO:
 # From `crypto_wallet.py import the functions generate_account, get_balance,
 #  and send_transaction
-# YOUR CODE HERE
+
+from crypto_wallet import generate_account, get_balance, send_transaction
+from web3 import Web3
+
+w3 = Web3(Web3.HTTPProvider('http://127.0.0.1:7545'))
+account = generate_account(w3)
+balance = get_balance(w3, account.address)
+send_transaction(w3, account, "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4", 1)
+
 
 ################################################################################
 # Fintech Finder Candidate Information
