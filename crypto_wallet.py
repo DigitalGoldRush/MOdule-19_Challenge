@@ -53,6 +53,7 @@ def send_transaction(w3, account, to, ether):
     w3.eth.setGasPriceStrategy(medium_gas_price_strategy)
 
     # Convert eth amount to Wei
+      
     wei_value = w3.toWei(ether, "ether")
 
     # Calculate gas estimate
