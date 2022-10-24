@@ -22,14 +22,14 @@
 
     1. Candidate was selected and paid on the APP "Fintech Finder!"
 
-![https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/screenshot%20streamlit.jpg](https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/screenshot%20streamlit.jpg)
+![https://github.com/DigitalGoldRush/Module-19_Challenge/blob/main/Images/streamlit%20transaction%20shot.jpg](https://github.com/DigitalGoldRush/Module-19_Challenge/blob/main/Images/streamlit%20transaction%20shot.jpg)
 
     2. Address, balance, and transaction on Ganache
 
-![https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/streamlit%20validate%20chain.jpg](https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/streamlit%20validate%20chain.jpg)
+![https://github.com/DigitalGoldRush/Module-19_Challenge/blob/main/Images/ganache%20account%20tab.jpg](https://github.com/DigitalGoldRush/Module-19_Challenge/blob/main/Images/ganache%20account%20tab.jpg)
 
     3. Transaction on Ganache
-![https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/streamlit%20validate%20chain.jpg](https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/streamlit%20validate%20chain.jpg)
+![https://github.com/DigitalGoldRush/Module-19_Challenge/blob/main/Images/ganache%20transaction.jpg](https://github.com/DigitalGoldRush/Module-19_Challenge/blob/main/Images/ganache%20transaction.jpg)
 
 ---
 
