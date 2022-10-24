@@ -15,20 +15,23 @@
     5. Review the transaction hash code associated with the validated transaction.
 ---
 
-## Summary of Findings
-
 ### Launch APP --> [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://digitalgoldrush-module-18-challenge-mod-18-challenge-w8dpyv.streamlitapp.com/)
 
 
-    1. Candidate was selected and paid on the APP "Fintech Finder!"
+   ## 1. Candidate was selected and paid on the APP "Fintech Finder!"
+   
 
 ![https://github.com/DigitalGoldRush/Module-19_Challenge/blob/main/Images/streamlit%20transaction%20shot.jpg](https://github.com/DigitalGoldRush/Module-19_Challenge/blob/main/Images/streamlit%20transaction%20shot.jpg)
 
-    2. Address, balance, and transaction on Ganache
+
+   ## 2. Address, balance, and transaction on Ganache
+   
 
 ![https://github.com/DigitalGoldRush/Module-19_Challenge/blob/main/Images/ganache%20account%20tab.jpg](https://github.com/DigitalGoldRush/Module-19_Challenge/blob/main/Images/ganache%20account%20tab.jpg)
 
-    3. Transaction on Ganache
+
+   ## 3. Transaction on Ganache
+   
 ![https://github.com/DigitalGoldRush/Module-19_Challenge/blob/main/Images/ganache%20transaction.jpg](https://github.com/DigitalGoldRush/Module-19_Challenge/blob/main/Images/ganache%20transaction.jpg)
 
 ---
