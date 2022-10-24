@@ -2,11 +2,11 @@
 
 ![https://github.com/DigitalGoldRush/Module-19_Challenge/blob/main/Images/ganache.jpeg](https://github.com/DigitalGoldRush/Module-19_Challenge/blob/main/Images/ganache.jpeg)
 
-## 1. Overview of the Project
+## Overview of the Project
 
     In this project we will be using the Ganache application to create a local blockchain network and send transactions between accounts. We will also be using the Web3 library to interact with the local Ethereum blockchain network.
 
-## 2. Steps Involved
+## Steps Involved
 
     1. Generate a new wallet address using the Ganache application.
     2. Fetch & Display the balance of the wallet address.
@@ -14,9 +14,7 @@
     4. Digitally sign a transaction and send transaction to the Ganache network.
     5. Review the transaction hash code associated with the validated transaction.
 ---
-
-### Launch APP --> [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://digitalgoldrush-module-18-challenge-mod-18-challenge-w8dpyv.streamlitapp.com/)
-
+## Summary of Results
 
    ## 1. Candidate was selected and paid on the APP "Fintech Finder!"
    
